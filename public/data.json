@@ -1,0 +1,102 @@
+{
+    "date":"02/06/2023 18:16:11",
+    "title":"ps4",
+    "Products":[
+       {
+          "asin":"B01MUHVQWT",
+          "title":"Sony PS4 Slim 500 GB Console",
+          "price":"32,750",
+          "image":"https://m.media-amazon.com/images/I/8176J0BnOVL._SX569_.jpg"
+       },
+       {
+          "asin":"B07YQ8JMSH",
+          "title":"Sony The Last of Us Part II (PS4)",
+          "price":"939",
+          "image":"https://m.media-amazon.com/images/I/41uiotPZPxL._SX385_.jpg"
+       },
+       {
+          "asin":"B0B7BD84V6",
+          "title":"Electronic Arts FIFA 23 | Standard Edition | PS4 (PlayStation 4)",
+          "price":"2,800",
+          "image":"https://m.media-amazon.com/images/I/41LpWPrA3sL._SY500_.jpg"
+       },
+       {
+          "asin":"B099B7JN4V",
+          "title":"PS4 Ghost of Tsushima Director's Cut (PS4)",
+          "price":"1,799",
+          "image":"https://m.media-amazon.com/images/I/81IK2zIo0AS._SX425_.jpg"
+       },
+       {
+          "asin":"B07D381RDJ",
+          "title":"Grand Theft Auto V - Premium Edition (PS4)",
+          "price":"1,599",
+          "image":"https://m.media-amazon.com/images/I/81cvVRtcznL._SX385_.jpg"
+       },
+       {
+          "asin":"B08LFBM5JV",
+          "title":"Sony Marvel's Spider-Man: Miles Morales (PS4)",
+          "price":"1,799",
+          "image":"https://m.media-amazon.com/images/I/811umGHYORL._SX425_.jpg"
+       },
+       {
+          "asin":"B09HXVG7ND",
+          "title":"Big Ant Studios Cricket 22 | International Edition | PS4 (PlayStation 4)",
+          "price":"2,099",
+          "image":"https://m.media-amazon.com/images/I/819+YfyPdBL._SX385_.jpg"
+       },
+       {
+          "asin":"B07YQ73Y8T",
+          "title":"God of War | PS4 Game (PlayStation 4)",
+          "price":"799",
+          "image":"https://m.media-amazon.com/images/I/81emBOJxExL._SX425_.jpg"
+       },
+       {
+          "asin":"B07CR4GQD3",
+          "title":"Sony Marvel's Spider Man (PS4)",
+          "price":"1,294",
+          "image":"https://m.media-amazon.com/images/I/61pnyTzI4NS._SX466_.jpg"
+       },
+       {
+          "asin":"B0B6FJKRVN",
+          "title":"God Of War Ragnar\u00f6k | Standard Edition | PS4 Game (PlayStation 4)",
+          "price":"2,999",
+          "image":"https://m.media-amazon.com/images/I/81LtrvOKYbL._SY500_.jpg"
+       },
+       {
+          "asin":"B098TZC9N8",
+          "title":"WWE 2K22 (PS4)",
+          "price":"1,990",
+          "image":"https://m.media-amazon.com/images/I/81g4gMmSjTL._SX385_.jpg"
+       },
+       {
+          "asin":"B073HJQ49W",
+          "title":"Sony PS4 Dualshock Magma - V2 (Red)",
+          "price":"4,299",
+          "image":"https://m.media-amazon.com/images/I/410CABRaVzL._SX466_.jpg"
+       },
+       {
+          "asin":"B09FJYNS3W",
+          "title":"Sony Horizon Forbidden West | Standard Edition | PS4 Game (PlayStation 4)",
+          "price":"1,999",
+          "image":"https://m.media-amazon.com/images/I/91jxySQgvpL._SX425_.jpg"
+       },
+       {
+          "asin":"B07SH36GRX",
+          "title":"PS4 watch dogs legion (PS4)",
+          "price":"949",
+          "image":"https://m.media-amazon.com/images/I/71gvZFSC4QL._SX385_.jpg"
+       },
+       {
+          "asin":"B098KP6TZQ",
+          "title":"PS4 Minecraft Starter Collection (PS4)",
+          "price":"1,799",
+          "image":"https://m.media-amazon.com/images/I/71XzDSkjCFL._SX385_.jpg"
+       },
+       {
+          "asin":"B07M5V17R9",
+          "title":"Uncharted Collection Hits (PS4)",
+          "price":"1,260",
+          "image":"https://m.media-amazon.com/images/I/71VMbefICaL._SX385_.jpg"
+       }
+    ]
+ }
